@@ -32,7 +32,7 @@
 
 ## Technologies That I Know👨🏻‍💻
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svelte,angular,js,ts,java,nodejs,graphql,docker,jenkins,figma,solidity,python,aws,redis&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,svelte,react,angular,nextjs,java,nodejs,express,graphql,docker,jenkins,figma,vite,solidity,python,aws,redis&perline=14" />
   </a>
 
 
