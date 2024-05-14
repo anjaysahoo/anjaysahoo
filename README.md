@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -19,12 +19,18 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **<a href="https://github.com/BlockchainKami/lensview-beta">LensView</a>**
+- 🔭 I’m currently working on **<a href="https://github.com/BlockchainKami/lensview-beta">LensView</a>** a decentralized social media 
+- ✨ Highly obsessed, making _**optimized apps**_ and _**writing clean code**_
+- 🎨 Translating childhood sketches into interactive web experiences as a **Frontend developer**.
+- 🔨 Passionate about blockchain, building in web3 since _2021_.
 <!--Intro end-->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anjaysahoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anjaysahoo&theme=blue-green&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=anjaysahoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true\&rank_icon=github&hide=stars,contribs,issues&show=prs_merged,prs_merged_percentage&show_icons=true&hide_title=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anjaysahoo&theme=blue-green&hide_border=false&hide=current&hide_current_streak=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaysahoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -32,7 +38,7 @@
 
 ## Technologies That I Know👨🏻‍💻
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,svelte,react,angular,nextjs,java,nodejs,express,graphql,docker,jenkins,figma,vite,solidity,python,aws,redis&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,svelte,react,angular,nextjs,java,nodejs,express,graphql,docker,jenkins,figma,vite,solidity,python,aws,redis&perline=14" alt="skill icons"/>
   </a>
 
 
@@ -46,11 +52,11 @@
 
 ## 😂 Random Dev Meme
 <a >
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="random meme"/>
   </a>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
 
 
